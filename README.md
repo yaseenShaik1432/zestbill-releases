@@ -62,16 +62,3 @@ need to download them.
 
 Your business data is stored on your own computer. To move to a new computer, make a backup in
 **Settings → Backup & restore**, install ZestBill on the new computer and restore it there.
-
-## Coming from Easy Billing?
-
-ZestBill was previously called Easy Billing. It installs as a separate app and does not replace Easy Billing, so your
-old data is not touched. To bring your data across:
-
-1. In Easy Billing, go to **Settings → Backup & restore → Back up to pen drive / other folder…** and save the file
-   somewhere safe.
-2. Install ZestBill and finish the first-time setup.
-3. In ZestBill, go to **Settings → Backup & restore → Restore from a backup file…** and choose that file.
-4. Go to **Settings → License** and send your new Machine ID to your ZestBill provider for a new license key. Old
-   Easy Billing keys do not work in ZestBill.
-5. When everything looks right, uninstall Easy Billing. Uninstalling does not delete its data.
